@@ -6,4 +6,4 @@ while True:
     if resp == "N":
         break
 
-print(produtoss)
+print(produtos)
